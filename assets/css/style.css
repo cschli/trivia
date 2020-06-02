@@ -1,0 +1,31 @@
+.container {
+    /* width: 960px; */
+    background-image: url("../images/128-168.jpg");
+    height: 400px;
+    position: relative;
+}
+
+.titleBox {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.start {
+    width: 66%;
+}
+
+.contentSection {
+    text-align: center;
+    position: relative;
+    margin-top: 10%;
+    background-image: url("../images/128-168.jpg");
+}
+
+body {
+    background-image: url("../images/128-198.jpg");
+}
+
+.sidebar {
+    background-image: url("../images/funky-lines.png");
+
+}
